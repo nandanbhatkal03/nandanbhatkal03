@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="140" alt="Pikachu" />
 
-# ⚡ Trainer Card: Nandan Nityanand Bhatkal ⚡
+# ⚡ Student Card: Nandan Nityanand Bhatkal ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D02C&center=true&vCenter=true&width=700&lines=Wild+DevOps+Engineer+appeared!;M.Tech+CSE+Student%7C+MSRIT'27;Catching+bugs%2C+not+just+Pok%C3%A9mon+%F0%9F%8E%AE;Gotta+deploy+'em+all!)](https://github.com/nandanbhatkal03)
 
@@ -26,23 +26,23 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 
 ---
 
-## 📟 Pokédex Stats
+## 📟 Stats
 
 | Stat | Value |
 |------|-------|
-| 🧢 **Trainer Name** | Nandan Nityanand Bhatkal |
-| 🏫 **Academy** | Ramaiah Institute of Technology (M.Tech CSE, MSRIT'27) |
-| 📍 **Location** | Greater Bengaluru Area, India |
-| 🗣️ **Languages Spoken** | English · Konkani · Kannada · Hindi |
-| ⭐ **Top Skills** | Anomaly Detection · C · Linux |
+| 🧢 **Name** | Nandan Nityanand Bhatkal |
+| 🏫 **Academy** | Ramaiah Institute of Technology (M.Tech CSE) |
+| 📍 **Location** | Bengaluru, India |
+| 🗣️ **Languages Spoken** | English · Kannada · Konkani · Hindi |
+| ⭐ **Top Skills** | DevOps · Python · Linux |
 
 ---
 
-## 🎒 Moves & Abilities (Tech Stack)
+## 🎒 Tech Stack
 
 <div align="center">
 
-### ⚔️ Core Moves
+### ⚔️ Core
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,13 +50,13 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web Type
+### 🌐 Web
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### ☁️ Cloud & DevOps Type
+### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -64,7 +64,7 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🐧 Systems & Security Type
+### 🐧 Systems & Security 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-9C27B0?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge)
@@ -74,7 +74,7 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 
 ---
 
-## 🏅 Gym Badges (Certifications)
+## 🏅 Certifications
 
 | Badge | Certification |
 |:-----:|---------------|
@@ -86,7 +86,7 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 
 ---
 
-## 🗺️ Adventure Log (Experience)
+## 🗺️ Experience
 
 <img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="110" alt="Charizard" />
 
@@ -98,18 +98,18 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 
 ---
 
-## 🎓 Trainer Academy (Education)
+## 🎓 Education
 
 | Level | Institution | Details |
 |:-----:|-------------|---------|
-| 🏆 **Elite Four** | **Ramaiah Institute of Technology** | Master of Technology (M.Tech), Computer Science and Engineering · 2025 – 2027 |
-| 🥇 **Gym Leader** | **Government Engineering College, Karwar** | Bachelor of Engineering (B.E.), Computer Science and Engineering · Dec 2021 – May 2025 |
-| 🥈 **Trainer School** | **MES Chaitanya Pre-University College** | Class 12 (PCM + Computer Science) · Apr 2020 – Jul 2021 |
-| 🥉 **Starter Town** | **Sri Ramakrishna Residential High School, Sagar** | Class 10 · Apr 2018 – Apr 2019 |
+| 🏆 | **Ramaiah Institute of Technology** | Master of Technology (M.Tech), Computer Science and Engineering · 2025 – 2027 |
+| 🥇 | **Government Engineering College, Karwar** | Bachelor of Engineering (B.E.), Computer Science and Engineering · Dec 2021 – May 2025 |
+| 🥈 | **MES Chaitanya Pre-University College** | Class 12 (PCM + Computer Science) · Apr 2020 – Jul 2021 |
+| 🥉 | **Sri Ramakrishna Residential High School, Sagar** | Class 10 · Apr 2018 – Apr 2019 |
 
 ---
 
-## 📖 Pokédex Entries (Projects)
+## 📖 Projects
 
 <div align="center">
 <table>
@@ -117,7 +117,6 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 <td align="center" width="170">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png" width="100" /><br/>
 <b>#001 FlimFlex</b><br/>
-<code>⚡ Electric Type</code>
 </td>
 <td>
 
@@ -136,7 +135,6 @@ A full-stack, real-time movie ticket booking platform built on the MERN stack, w
 <td align="center" width="170">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="100" /><br/>
 <b>#002 Vuln-Scanner</b><br/>
-<code>👻 Ghost / ☠️ Poison Type</code>
 </td>
 <td>
 
@@ -153,7 +151,6 @@ An AI-powered network vulnerability scanner that automates threat detection, cla
 <td align="center" width="170">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png" width="100" /><br/>
 <b>#003 OpenLearnX</b><br/>
-<code>🌿 Grass / Ground Type</code>
 </td>
 <td>
 
@@ -170,7 +167,6 @@ A web-based online learning platform covering course management, assessments, pr
 <td align="center" width="170">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png" width="100" /><br/>
 <b>#004 SlideCraft</b><br/>
-<code> 🪲 Bug / Steel  Type</code>
 </td>
 <td>
 
@@ -187,7 +183,6 @@ A C# WPF desktop application, a mini PowerPoint built with the Open XML SDK. It 
 <td align="center" width="170">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="100" /><br/>
 <b>#005 AI Software Repair</b><br/>
-<code>🔮 Psychic Type</code>
 </td>
 <td>
 
@@ -205,7 +200,7 @@ An AI-driven approach to software debugging and automated program repair. It com
 
 ---
 
-## 📊 Trainer Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -216,7 +211,7 @@ An AI-driven approach to software debugging and automated program repair. It com
 
 ---
 
-## 📡 Poké-Gear (Contact)
+## 📡 Contact
 
 <div align="center">
 
