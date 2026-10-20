@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="140" alt="Pikachu" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png" width="140" alt="Dialga" />
 
 # ⚡ Student Card: Nandan Nityanand Bhatkal ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D02C&center=true&vCenter=true&width=700&lines=Wild+DevOps+Engineer+appeared!;M.Tech+CSE+Student%7C+MSRIT'27;Catching+bugs%2C+not+just+Pok%C3%A9mon+%F0%9F%8E%AE;Gotta+deploy+'em+all!)](https://github.com/nandanbhatkal03)
 
-![Trainer Class](https://img.shields.io/badge/Trainer_Class-M.Tech_CSE-EE1515?style=for-the-badge&logo=pokemon&logoColor=white)
+![Class](https://img.shields.io/badge/Trainer_Class-M.Tech_CSE-EE1515?style=for-the-badge&logo=pokemon&logoColor=white)
 ![Region](https://img.shields.io/badge/Region-Greater_Bengaluru-3B4CCA?style=for-the-badge)
 ![Academy](https://img.shields.io/badge/Academy-MSRIT_'27-FFDE00?style=for-the-badge&labelColor=333)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔴 Trainer Profile
+## 🔴 Profile
 
 > *"A wild Computer Science postgraduate appeared! It's super effective against bugs."*
 
