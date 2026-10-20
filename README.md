@@ -151,9 +151,9 @@ An AI-powered network vulnerability scanner that automates threat detection, cla
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png" width="100" /><br/>
 <b>#003 OpenLearnX</b><br/>
-<code>🌿 Grass Type</code>
+<code>🌿 Grass / Ground Type</code>
 </td>
 <td>
 
@@ -168,9 +168,9 @@ A web-based online learning platform covering course management, assessments, pr
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png" width="100" /><br/>
 <b>#004 SlideCraft</b><br/>
-<code>🎨 Normal Type</code>
+<code> 🪲 Bug / Steel  Type</code>
 </td>
 <td>
 
@@ -185,9 +185,9 @@ A C# WPF desktop application, a mini PowerPoint built with the Open XML SDK. It 
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="100" /><br/>
 <b>#005 AI Software Repair</b><br/>
-<code>🤖 Digital / Psychic Type</code>
+<code>🔮 Psychic Type</code>
 </td>
 <td>
 
