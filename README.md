@@ -115,7 +115,7 @@ My journey includes an **AI-DevOps Engineer internship** working with Python, Do
 <table>
 <tr>
 <td align="center" width="170">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png" width="100" /><br/>
 <b>#001 FlimFlex</b><br/>
 <code>⚡ Electric Type</code>
 </td>
